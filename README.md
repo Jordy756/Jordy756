@@ -1,5 +1,3 @@
-#
-
 <img align="right" width=250px alt="Unicorn" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" />
 
 ## About me
