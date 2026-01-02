@@ -1,7 +1,4 @@
-<h1 align="center">
-    <b>Hola, soy Jordy Castro </b>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-</h1>
+#
 
 <img align="right" width=250px alt="Unicorn" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" />
 
@@ -19,5 +16,7 @@ Full Stack Developer with over 1 year of professional experience in building web
 
 ## Github Statistics
 
-[![](https://github-readme-stats.vercel.app/api?username=Jordy756&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Jordy756)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Jordy756&theme=material-palenight)](https://github.com/Jordy756)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jordy756&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Jordy756)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jordy756&theme=material-palenight)](https://github.com/Jordy756)
+
+[![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jordy756&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)](https://github.com/Jordy756)
