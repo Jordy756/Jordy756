@@ -14,7 +14,8 @@ Full Stack Developer with over 1 year of professional experience in building web
 
 ## Github Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jordy756&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Jordy756)
+[![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jordy756&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)]
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jordy756&theme=material-palenight)](https://github.com/Jordy756)
 
 [![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jordy756&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)](https://github.com/Jordy756)
